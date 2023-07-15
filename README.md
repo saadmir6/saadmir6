@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 # 💫 About Me:
-🌍  I'm based in Athens, Greece<br>🚀  I'm currently working on My Real Estate Project<br>🧠  I'm learning Angular and Nest JS<br>
+🌍  I'm based in Stockholm, Sweden <br>🚀  I'm currently working on My Real Estate Project<br>🧠  I'm learning Angular and Nest JS<br>
 
 
 # 💻 Tech Stack:
