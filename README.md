@@ -28,7 +28,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=saadmir6&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=saadmir6&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=saadmir6&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
