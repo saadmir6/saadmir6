@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 # 💫 About Me:
-🌍  I'm based in Kista, Sweden <br>🚀  I'm currently working on my masters assigments<br>🧠  I'm learning Erlang JS<br>
+🌍  I'm based in Stockholm, Sweden <br>🚀  I'm currently working on my masters degree<br>
 
 
 # 💻 Tech Stack:
