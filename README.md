@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ================================================================================================================================
 
 # 💫 About Me:
-🌍  I'm based in Stockholm, Sweden <br>🚀  I'm currently working on my masters degree<br>
+🌍  I'm based in Stockholm, Sweden <br>🚀 Recentrly finished my master's degree and working on peronal projects<br>
 
 
 # 💻 Tech Stack:
